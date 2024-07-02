@@ -1,7 +1,7 @@
 ## Hi, Welcome to my GitHub Profile! 👋
 
 I'm a 20-year-old Flutter mobile developer. I've worked on one real project so far, and I'm passionate about creating awesome mobile applications!
-(https://habrastorage.org/r/w1560/getpro/habr/upload_files/347/bc4/240/347bc424029e258318de6c8ab17c9052.png)
+
 ## Tech Stack 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
